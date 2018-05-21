@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1445326987 source:e:\nsu life\cse 225 lab problems\lab class 03; 15th oct 15\stack\itemtype.cpp
+	"itemtype.h"
+
+1445326966 e:\nsu life\cse 225 lab problems\lab class 03; 15th oct 15\stack\itemtype.h
+	<iostream>
+
+1445328135 source:e:\nsu life\cse 225 lab problems\lab class 03; 15th oct 15\stack\main.cpp
+	<iostream>
+	"itemtype.h"
+	"stacktype.h"
+
+1445326868 e:\nsu life\cse 225 lab problems\lab class 03; 15th oct 15\stack\stacktype.h
+	"itemtype.h"
+
+1445327978 source:e:\nsu life\cse 225 lab problems\lab class 03; 15th oct 15\stack\stacktype.cpp
+	"stacktype.h"
+
+1445326987 source:h:\my stuff\versity\5th semester\cse225l iha\cse lab mid\my\cse 225 lab problems\lab class 03; 15th oct 15\stack\itemtype.cpp
+	"itemtype.h"
+
+1445326966 h:\my stuff\versity\5th semester\cse225l iha\cse lab mid\my\cse 225 lab problems\lab class 03; 15th oct 15\stack\itemtype.h
+	<iostream>
+
+1445328135 source:h:\my stuff\versity\5th semester\cse225l iha\cse lab mid\my\cse 225 lab problems\lab class 03; 15th oct 15\stack\main.cpp
+	<iostream>
+	"itemtype.h"
+	"stacktype.h"
+
+1445326868 h:\my stuff\versity\5th semester\cse225l iha\cse lab mid\my\cse 225 lab problems\lab class 03; 15th oct 15\stack\stacktype.h
+	"itemtype.h"
+
+1445327978 source:h:\my stuff\versity\5th semester\cse225l iha\cse lab mid\my\cse 225 lab problems\lab class 03; 15th oct 15\stack\stacktype.cpp
+	"stacktype.h"
+

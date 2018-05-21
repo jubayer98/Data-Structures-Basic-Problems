@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1445350879 source:e:\nsu life\cse 225 lab problems\lab class 01; 17th sep 15\template class\part 2\main.cpp
+	<iostream>
+	"rectangle.h"
+	"rectangle.cpp"
+
+1445350735 e:\nsu life\cse 225 lab problems\lab class 01; 17th sep 15\template class\part 2\rectangle.h
+
+1445350697 e:\nsu life\cse 225 lab problems\lab class 01; 17th sep 15\template class\part 2\rectangle.cpp
+	"rectangle.h"
+	<iostream>
+	<math.h>
+
+1445350697 source:e:\nsu life\cse 225 lab problems\lab class 01; 17th sep 15\template class\part 2\rectangle.cpp
+	"rectangle.h"
+	<iostream>
+	<math.h>
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1444234536 source:e:\nsu life\cse 225 lab problems\lab 1\part 1\dynarr\dynarr.cpp
+	"dynarr.h"
+	<iostream>
+
+1444234541 e:\nsu life\cse 225 lab problems\lab 1\part 1\dynarr\dynarr.h
+
+1444235497 source:e:\nsu life\cse 225 lab problems\lab class 01; 17th sep 15\classes & objects\part 1\dynarr.cpp
+	"dynarr.h"
+	<iostream>
+
+1444235406 e:\nsu life\cse 225 lab problems\lab class 01; 17th sep 15\classes & objects\part 1\dynarr.h
+
+1444235363 source:e:\nsu life\cse 225 lab problems\lab class 01; 17th sep 15\classes & objects\part 1\main.cpp
+	<iostream>
+	"dynarr.h"
+

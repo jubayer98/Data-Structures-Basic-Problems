@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1445190995 source:e:\nsu life\cse 225 lab problems\lab class 02; 08th oct 15\unsorted list\itemtype.cpp
+	"itemtype.h"
+
+1445191043 e:\nsu life\cse 225 lab problems\lab class 02; 08th oct 15\unsorted list\itemtype.h
+	<iostream>
+
+1445193299 source:e:\nsu life\cse 225 lab problems\lab class 02; 08th oct 15\unsorted list\main.cpp
+	<iostream>
+	"unsortedtype.h"
+	"itemtype.h"
+
+1445191110 e:\nsu life\cse 225 lab problems\lab class 02; 08th oct 15\unsorted list\unsortedtype.h
+	"itemtype.h"
+
+1445191207 source:e:\nsu life\cse 225 lab problems\lab class 02; 08th oct 15\unsorted list\unsortedtype.cpp
+	"unsortedtype.h"
+

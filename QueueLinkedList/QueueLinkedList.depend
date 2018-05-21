@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1447863396 source:e:\nsu life\cse 225 lab problems\lab class 04; 29th oct 15\queuelinkedlist\main.cpp
+	<iostream>
+	"QueType.cpp"
+
+1447863396 e:\nsu life\cse 225 lab problems\lab class 04; 29th oct 15\queuelinkedlist\quetype.cpp
+	"QueType.h"
+	<iostream>
+
+1447863396 e:\nsu life\cse 225 lab problems\lab class 04; 29th oct 15\queuelinkedlist\quetype.h
+
+1447863396 source:e:\nsu life\cse 225 lab problems\lab class 04; 29th oct 15\queuelinkedlist\quetype.cpp
+	"QueType.h"
+	<iostream>
+

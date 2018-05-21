@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1445349883 source:e:\nsu life\cse 225 lab problems\lab class 01; 17th sep 15\template class\part 1\triangle.cpp
+	"triangle.h"
+	<iostream>
+	<math.h>
+
+1445350150 e:\nsu life\cse 225 lab problems\lab class 01; 17th sep 15\template class\part 1\triangle.h
+
+1446991675 source:e:\nsu life\cse 225 lab problems\lab class 01; 17th sep 15\template class\part 1\main.cpp
+	<iostream>
+	"triangle.h"
+	"triangle.cpp"
+
+1446991784 e:\nsu life\cse 225 lab problems\lab class 01; 17th sep 15\template class\part 1\triangle.cpp
+	"triangle.h"
+	<iostream>
+	<math.h>
+

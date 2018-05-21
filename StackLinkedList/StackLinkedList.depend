@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1447862540 source:e:\nsu life\cse 225 lab problems\lab class 04; 29th oct 15\stacklinkedlist\main.cpp
+	<iostream>
+	"StackType.cpp"
+
+1447862736 e:\nsu life\cse 225 lab problems\lab class 04; 29th oct 15\stacklinkedlist\stacktype.cpp
+	<iostream>
+	"StackType.h"
+
+1447004009 e:\nsu life\cse 225 lab problems\lab class 04; 29th oct 15\stacklinkedlist\stacktype.h
+
+1447862736 source:e:\nsu life\cse 225 lab problems\lab class 04; 29th oct 15\stacklinkedlist\stacktype.cpp
+	<iostream>
+	"StackType.h"
+

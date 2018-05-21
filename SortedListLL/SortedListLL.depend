@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1447167612 source:e:\nsu life\cse 225 lab problems\lab class 05; 05th nov 15\sortedlistll\main.cpp
+	<iostream>
+	"SortedType.cpp"
+
+1447167596 e:\nsu life\cse 225 lab problems\lab class 05; 05th nov 15\sortedlistll\sortedtype.cpp
+	"SortedType.h"
+	<iostream>
+
+1447167264 e:\nsu life\cse 225 lab problems\lab class 05; 05th nov 15\sortedlistll\sortedtype.h
+
+1447167596 source:e:\nsu life\cse 225 lab problems\lab class 05; 05th nov 15\sortedlistll\sortedtype.cpp
+	"SortedType.h"
+	<iostream>
+
